@@ -1,0 +1,44 @@
+{
+ "strict-smartart.docx": {
+  "lost_attrs": {
+   "word/document.xml": {
+    "document@conformance=strict": 1
+   }
+  }
+ },
+ "strict.docx": {
+  "lost_attrs": {
+   "word/document.xml": {
+    "document@conformance=strict": 1
+   }
+  }
+ },
+ "tdf116410.docx": {
+  "lost_attrs": {
+   "word/document.xml": {
+    "document@conformance=strict": 1
+   }
+  }
+ },
+ "tdf150822.docx": {
+  "lost_attrs": {
+   "word/document.xml": {
+    "document@conformance=strict": 1
+   }
+  }
+ },
+ "tdf79272_strictDxa.docx": {
+  "lost_attrs": {
+   "word/document.xml": {
+    "document@conformance=strict": 1
+   }
+  }
+ },
+ "tdf82065_Ind_start_strict.docx": {
+  "lost_attrs": {
+   "word/document.xml": {
+    "document@conformance=strict": 1
+   }
+  }
+ }
+}

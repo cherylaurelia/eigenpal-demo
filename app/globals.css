@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+/* From docx-editor.dev: Geist + Geist Mono, blue #3B5BDB, purple #6b3fb8, ink #171717 on #faf9f8. */
+@theme {
+  --color-paper: #faf9f8;
+  --color-ink: #171717;
+  --color-ink-2: #4b4a48;
+  --color-line: #e5e7eb;
+  --color-blue: #3b5bdb;
+  --color-blue-dark: #2f4ab8;
+  --color-purple: #6b3fb8;
+  --color-err: #b42318;
+  --color-err-soft: #fef3f2;
+  --color-ok: #067647;
+  --color-ok-soft: #ecfdf3;
+  --font-sans: var(--font-geist), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, "SF Mono", monospace;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+}
